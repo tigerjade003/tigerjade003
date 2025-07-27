@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-**![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tigerjade003&hide_progress=true)**
+**![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tigerjade003)**
+
 Here's some of my interesting projects!
 
 
