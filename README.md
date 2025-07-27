@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Here's some of my interesting projects!
+
 <!--
 **tigerjade003/tigerjade003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
