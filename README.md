@@ -1,7 +1,8 @@
 ## Hi there 👋
 
+**![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tigerjade003&hide_progress=true)**
 Here's some of my interesting projects!
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tigerjade003&hide_progress=true)
+
 
 <!--
 **tigerjade003/tigerjade003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
