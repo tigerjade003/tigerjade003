@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-HI!!!!!!!!!!!!!!!!!!!!
-
-
-
+HI!
 
 Here's some of my interesting projects!
 
+I'm currently working on a web scraper to get shopping data.
 
 <!--
 **tigerjade003/tigerjade003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
